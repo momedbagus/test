@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "viatura": [
+    { "id": 1, "marca": "Honda", "matricula": "ADY661MC" },
+    { "id": 2, "marca": "Toyota","matricula": "ABB112MP" },
+    { "id": 3, "marca": "Ford", "matricula": "AOK112MC" }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "momedbagus"
   }
 }
